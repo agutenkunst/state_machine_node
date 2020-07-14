@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -n 'ACK' | nc -u -w0 localhost 5004
